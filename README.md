@@ -6,7 +6,7 @@
 - prosilver 3.2
 ### Installing
 - prosilver needs to be installed to use this style (check your ACP to be sure)
-- Download the style [here](https://github.com/flweber/phpBB-3-2-zelda_style/archive/master.zip)
+- Download the style [here](https://github.com/flweber/phpBB-3-2-zelda_style/releases)
 - Unpack the ZIP-Archiv and copy the folder in the styles directory of your phpBB installation
 - Navigate to your ACP->Customize->Install Styles and click on install behind > Zelda Style
 ## Features
